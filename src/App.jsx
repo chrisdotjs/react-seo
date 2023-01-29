@@ -22,7 +22,7 @@ function App() {
           <br />
           React SEO
           <br />
-          Netlify Prerendering?
+          Netlify Prerendering ;) OK!!!
         </p>
       </header>
     </div>
