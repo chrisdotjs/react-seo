@@ -18,8 +18,6 @@ function App() {
           Learn React
         </a>
         <p>
-          Hello ;)
-          <br />
           React SEO
           <br />
           Netlify Prerendering ;) OK!!!
